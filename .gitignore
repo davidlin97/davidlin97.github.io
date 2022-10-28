@@ -1,0 +1,5 @@
+*.sh
+.history/
+.vscode/
+
+*.DS_Store
